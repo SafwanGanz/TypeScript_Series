@@ -95,3 +95,8 @@ let set: Set<number> = new Set([1, 2, 3, 3]);
 set.add(4);
 console.log(set); // Output: Set { 1, 2, 3, 4 }
 ```
+
+<a href="primitive_types.md">
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+</a>
+
