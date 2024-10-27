@@ -23,5 +23,5 @@ let age: number = 30;
 ```bash
 let age = 30; // Type is inferred at runtime
 ```
-<a href="data_structures.md" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Next (Data Structures)</a>
+<a href="data_structure.md" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Next (Data Structures)</a>
 
