@@ -59,3 +59,19 @@ enum Direction {
 
 let dir: Direction = Direction.North;
 ```
+
+**4. Interfaces**
+
+*Interfaces are used to define the structure of an object*
+
+```bash
+interface Person {
+    name: string;
+    age: number;
+}
+
+let person: Person = {
+    name: "Alice",
+    age: 25
+};
+```
