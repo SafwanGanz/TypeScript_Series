@@ -55,3 +55,43 @@ let person: Person = {
 };
 ```
 
+**5. Classes**
+
+*Classes are used to create objects with properties and methods*
+
+```bash
+class Animal {
+    name: string;
+    constructor(name: string) {
+        this.name = name;
+    }
+    speak() {
+        console.log( `${this.name} makes a noise. ` );
+    }
+}
+
+let dog = new Animal("Dog");
+dog.speak();
+```
+
+**6. Maps**
+
+*Maps store key-value pairs with keys of any data type*
+
+```bash
+let map: Map<string, number> = new Map();
+map.set("Alice", 25);
+map.set("Bob", 30);
+
+console.log(map.get("Alice")); // Output: 25
+```
+
+**7. Sets**
+
+*Sets store unique values of any type*
+
+```bash
+let set: Set<number> = new Set([1, 2, 3, 3]);
+set.add(4);
+console.log(set); // Output: Set { 1, 2, 3, 4 }
+```
