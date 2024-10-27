@@ -1,7 +1,7 @@
 ![TypeScript](images/image1.jpeg)
 # TypeScript Learning Series
 
-## Type Composition
+## next key concepts are Type Aliases, Interfaces, Functions and Function Types, and Generics
 
 **1. Type Aliases**
 
