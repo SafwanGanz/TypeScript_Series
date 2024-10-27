@@ -57,3 +57,7 @@ console.log(bigNumber); // Output: 12345678901234567890n
 let uniqueId: symbol = Symbol("id");
 console.log(uniqueId); // Output: Symbol(id)
 ```
+
+<a href=" custom_type.md">
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+</a>
