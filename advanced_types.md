@@ -101,3 +101,7 @@ let message: Greeting = "Hello, World";  // Valid
 ```
 
 *These are useful for creating types that follow a particular format, such as specific string patterns for CSS classes or IDs*
+
+<a href="advanced_types.md">
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+</a>
