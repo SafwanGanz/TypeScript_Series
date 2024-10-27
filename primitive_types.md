@@ -58,6 +58,6 @@ let uniqueId: symbol = Symbol("id");
 console.log(uniqueId); // Output: Symbol(id)
 ```
 
-<a href=" custom_type.md">
+<a href="type_composition.md">
   <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
 </a>
