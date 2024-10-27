@@ -46,3 +46,54 @@ Type Aliases
 
 type StringOrNumber = string | number;
 ```
+
+**2. Defining Interfaces**
+
+
+> Syntax:
+
+```bash
+interface Person {
+  name: string;
+  age: number;
+  email?: string;
+}
+
+// Using the interface
+
+const person2: Person = {
+  name: "Bob",
+  age: 30
+};
+```
+> Features
+
+```bash
+interface ContactInfo {
+  phone: string;
+}
+
+interface Employee extends Person, ContactInfo {
+  employeeId: number;
+}
+
+Merging Interfaces
+
+interface Dog {
+  breed: string;
+}
+
+interface Dog {
+  age: number;
+}
+
+const myDog: Dog = { breed: "Labrador", age: 5 };
+```
+
+**3. Choosing Between Type and Interface**
+
+*Use type if you need to create a union of string literals*
+
+```bash
+type Direction = "left" | "right" | "up" | "down";
+```
