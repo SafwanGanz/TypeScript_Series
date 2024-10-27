@@ -1,3 +1,6 @@
+![TypeScript](images/image1.jpeg)
+# TypeScript Learning Series
+
 ## Type Composition
 
 **1. Type Aliases**
