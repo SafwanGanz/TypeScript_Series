@@ -1,7 +1,7 @@
 ![TypeScript](images/image1.jpeg)
 # TypeScript Learning Series
 
-##Data Structures
+## Data Structures
 
 *data structures can be represented in various ways.*
 
