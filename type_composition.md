@@ -59,5 +59,8 @@ const stringArray = wrapInArray("Hello");  // T inferred as string
 ```
 *Generics are commonly used in functions, classes, and interfaces to create flexible, type-safe components*
 
+<a href=" .md">
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+</a>
 
 
