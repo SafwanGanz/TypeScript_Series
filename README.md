@@ -1,3 +1,4 @@
+![TypeScript](images/image1.jpeg)
 # TypeScript Learning Series
 
 This comprehensive series is designed to take you from a beginner to an advanced user of TypeScript, enabling you to build robust and maintainable applications. Whether you are a JavaScript developer looking to enhance your skills or a newcomer to programming, this series provides clear explanations, practical examples, and hands-on projects to solidify your understanding.
