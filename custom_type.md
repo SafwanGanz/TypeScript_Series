@@ -97,3 +97,7 @@ const myDog: Dog = { breed: "Labrador", age: 5 };
 ```bash
 type Direction = "left" | "right" | "up" | "down";
 ```
+
+<a href=" custom_type.md">
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+</a>
