@@ -1,7 +1,9 @@
 ![TypeScript](images/image1.jpeg)
 # TypeScript Learning Series
 
-## primary primitive types in TypeScript
+## primitive types
+
+*primary primitive types in TypeScript*
 
 **1. string**
 
