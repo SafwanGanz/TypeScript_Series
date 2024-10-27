@@ -24,7 +24,7 @@ let age: number = 30;
 let age = 30; // Type is inferred at runtime
 ```
 <a href="data_structure.md">
-  <img src="button-image.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
+  <img src="images/button_next.png" alt="Next" style="width: 100px; height: auto; border: none;"/>
 </a>
 
 
