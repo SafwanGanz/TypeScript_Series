@@ -23,55 +23,5 @@ let age: number = 30;
 ```bash
 let age = 30; // Type is inferred at runtime
 ```
+<a href="data_structures.md" style="display: inline-block; padding: 10px 20px; font-size: 16px; color: white; background-color: #007bff; text-align: center; text-decoration: none; border-radius: 5px;">Next (Data Structures)</a>
 
-*data structures can be represented in various ways.*
-
-
-**1. Arrays**
-
-*Arrays are used to store a collection of elements*
-
-```bash
-let numbers: number[] = [1, 2, 3, 4];
-let names: string[] = ["Alice", "Bob", "Charlie"];
-```
-
-**2. Tuples**
-
-*Tuples allow storing multiple types in a fixed-size array*
-
-```bash
-let person: [string, number];
-person = ["Alice", 25];
-```
-
-**3. Enums**
-
-*Enums are used to define a set of named constants*
-
-```bash
-enum Direction {
-    North,
-    South,
-    East,
-    West,
-}
-
-let dir: Direction = Direction.North;
-```
-
-**4. Interfaces**
-
-*Interfaces are used to define the structure of an object*
-
-```bash
-interface Person {
-    name: string;
-    age: number;
-}
-
-let person: Person = {
-    name: "Alice",
-    age: 25
-};
-```
